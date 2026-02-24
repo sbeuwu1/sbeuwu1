@@ -12,10 +12,12 @@
 - Android SDK
 - Clean Architecture
 - MVVM, MVI
-- Coroutines, Flow
+- Coroutines, Flow, RxJava
 - Room
 - Retrofit
-- Dagger, Hilt
+- Jetpack Compose, Android View
+- Dagger, Hilt, Koin
+- Jetpack Navigation, Decompose
 
 ## Контакты
 - Email: kukushkin.vladislav.3@gmail.com
